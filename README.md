@@ -1,7 +1,7 @@
 # Pixel-Runner-
 ## this a  non stop runnning game made using pygame
 
-###how to use:-
+### how to use:-
 download or clone the folder and run the main python file.
 
 ### note:-
